@@ -1,3 +1,4 @@
+// https://github.com/eugenesang/number-systems
 secondDivisor=(number, firstDivisor)=>{
     if(number%firstDivisor!=0) number-=number%firstDivisor;
     return number/firstDivisor;
