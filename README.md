@@ -10,14 +10,10 @@ My attempt is to create a program where a user specifies their own digits to  be
 The next thing is to convert a normal human number and represent it using the digits they specified.
 
 For demo I used 0-9, A-Z, and a-z making up 62 digits and tried to convert numbers to this sytem and back.
-I have also tried to impliment this stuff in different languages
-> ### **The languages I used**
->> * C++
->> * Javascript
->> * Python
+
 
 I wish to see more languages with these.
 
-More expirienced people also correct me especialy with **C++**
+More expirienced people also correct me
  ## Codding is fun
 <center> &copy Eugene Kiprop Sang</cetnter>
