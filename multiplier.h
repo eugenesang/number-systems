@@ -1,7 +1,5 @@
-#include <iostream>
 #include <vector>
 using std::vector;
-using std::cout;
 using std::endl;
 vector <int> times_vec(vector <int> a, int x)
 {
