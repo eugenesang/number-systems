@@ -1,5 +1,15 @@
 #ifndef ARITHMETHICS_H
 #define ARITHMETHICS_H
+
+/********************************************************************************************************************
+*                                                                                                                   *
+*  This is are the functions that let you do the math using strings as numbers                                      *
+*  the others just perfom the task using vectors, here is where we bind the strings world and the vectors world     *
+*                                                                                                                   *
+*********************************************************************************************************************/
+
+// its worth notting that we are not using classes, but at some point we will have to, thats when it comes to floating point numbers
+
 #include <string>
 #include <iostream>
 #include <vector>
