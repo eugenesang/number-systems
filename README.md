@@ -17,4 +17,6 @@ I wish to see more languages with these.
 More expirienced people also correct me
  ## Codding is fun
 <center> &copy Eugene Kiprop Sang</cetnter>
+
+
 ` objdump --section=.text -s -d a.out `
