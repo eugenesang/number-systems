@@ -1,9 +1,9 @@
 # Number Systems
 >Human language for some reason has its number system as decimal.
->>That is its base ten numbers
+>That is its base ten numbers
 >
 >computers on the other hand have binary number system 
->>That is base two
+>That is base two
 
 My attempt is to create a program where a user specifies their own digits to  be used to represent numbers.
 
