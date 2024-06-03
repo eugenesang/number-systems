@@ -11,7 +11,6 @@ The next thing is to convert a normal human number and represent it using the di
 
 For demo I used 0-9, A-Z, and a-z making up 62 digits and tried to convert numbers to this sytem and back.
 
-
 I wish to see more languages with these.
 
 More expirienced people also correct me
