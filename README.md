@@ -13,8 +13,8 @@ BigInt is a custom C++ library that supports arbitrary-precision integers. Unlik
 ## Installation
 Clone the repository to your local machine:
 ```sh
-git clone https://github.com/yourusername/BigInt.git
-cd BigInt
+git clone https://github.com/eugenesang/number-systems.git
+cd number-sytems
 ```
 Include `BigInt.h` and `BigInt.cpp` in your project files or compile them directly with your code.
 
