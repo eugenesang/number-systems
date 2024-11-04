@@ -68,4 +68,4 @@ BigInt includes basic error handling for invalid operations (like division by ze
 Feel free to fork the repository and make your contributions. Ensure any pull requests include tests for new features.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the GNU License. See the LICENSE file for details.
